@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yunyi Cheng</h1>
-<h3 align="center">A CS & BCB student @ University of Toronto</h3>
+<h3 align="center">A MMSc Student @ Harvard Medical School</h3>
 
 - 🌱 I’m currently learning **Bioinformatics, Operating System and Deep Learning**
 
