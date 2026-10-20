@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:yunyi.cheng@outlook.com"><img src="https://img.shields.io/badge/mail-yunyi.cheng%40outlook.com-0d1117?style=flat-square&logo=maildotru&logoColor=36BCF7" alt="email" /></a>
+  <a href="https://yunyicheng.github.io"><img src="https://img.shields.io/badge/web-yunyicheng.github.io-0d1117?style=flat-square&logo=googlechrome&logoColor=36BCF7" alt="website" /></a>
   <a href="https://linkedin.com/in/yunyi-cheng"><img src="https://img.shields.io/badge/linkedin-yunyi--cheng-0d1117?style=flat-square&logo=linkedin&logoColor=36BCF7" alt="linkedin" /></a>
   <img src="https://komarev.com/ghpvc/?username=yunyicheng&style=flat-square&color=36BCF7&label=profile+views" alt="profile views" />
 </p>
