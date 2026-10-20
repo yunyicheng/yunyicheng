@@ -10,39 +10,18 @@
   <img src="https://komarev.com/ghpvc/?username=yunyicheng&style=flat-square&color=36BCF7&label=profile+views" alt="profile views" />
 </p>
 
-```python
-class Yunyi:
-    role       = "Algorithm Engineer @ Striv"
-    alma_mater = {"Harvard Medical School": "MMSc ✓ graduated"}
-    interests  = ["Wearable Sensors", "Biomechanics", "Deep Learning", "Bioinformatics"]
-    contact    = "yunyi.cheng@outlook.com"
-    roommates  = ["🐈", "🐈"]
-    allergies  = {"cats"}
-
-    def __init__(self):
-        if "cats" in self.allergies and self.roommates:
-            import warnings
-            warnings.warn("AllergenExposure: living with 2 cats anyway 🤧")
-
-    def ask_me_about(self):
-        return "wearables, ML, transformers for mass spec, PyTorch"
-```
-
-```text
-$ yunyi --status
-[ ok ] coffee                 loaded
-[ ok ] hms.mmsc               completed
-[ ok ] striv                  running
-[ ok ] antihistamines         loaded
-[warn] cat_count=2            above recommended threshold (0)
-[ ok ] curiosity              running since 2022
-```
+<p align="center">
+  <img src="assets/terminal.svg" alt="$ python3 -q >>> me = Yunyi() — UserWarning: AllergenExposure: living with 2 cats anyway" width="100%" />
+</p>
 
 ### `$ ls ~/stack`
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,java,perl,pytorch,tensorflow,sklearn,opencv,postgres,git,linux&theme=dark" alt="stack" />
-</p>
+| path | contents |
+| :-- | :-- |
+| `ml/` | <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,r&theme=dark" height="40" /> |
+| `data/` | <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="40" /> <img src="assets/duckdb.svg" height="40" alt="duckdb" /> <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="40" /> |
+| `apps/` | <img src="https://skillicons.dev/icons?i=swift,ts,js&theme=dark" height="40" /> |
+| `sys/` | <img src="https://skillicons.dev/icons?i=c,linux,docker,git&theme=dark" height="40" /> |
 
 ### `$ git log --graph --all | snake`
 
