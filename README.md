@@ -1,16 +1,59 @@
-<h1 align="center">Hi 👋, I'm Yunyi Cheng</h1>
-<h3 align="center">A MMSc Student @ Harvard Medical School</h3>
-
-- 🌱 I’m currently learning **Bioinformatics, Operating System and Deep Learning**
-
-- 📫 How to reach me **yunyi.cheng@outlook.com**
-
-- ⚡ Fun fact **I am super allergic to cats but I am living with 2 cats!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yunyi-cheng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunyi-cheng" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/yunyicheng">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=640&lines=%24+whoami;Yunyi+Cheng+%F0%9F%91%8B;Algorithm+Engineer+%40+Striv;HMS+MMSc+%E2%9C%93+graduated;sudo+pet+--all+cats+%23+achoo!" alt="typing intro" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:yunyi.cheng@outlook.com"><img src="https://img.shields.io/badge/mail-yunyi.cheng%40outlook.com-0d1117?style=flat-square&logo=maildotru&logoColor=36BCF7" alt="email" /></a>
+  <a href="https://linkedin.com/in/yunyi-cheng"><img src="https://img.shields.io/badge/linkedin-yunyi--cheng-0d1117?style=flat-square&logo=linkedin&logoColor=36BCF7" alt="linkedin" /></a>
+  <img src="https://komarev.com/ghpvc/?username=yunyicheng&style=flat-square&color=36BCF7&label=profile+views" alt="profile views" />
+</p>
+
+```python
+class Yunyi:
+    role       = "Algorithm Engineer @ Striv"
+    alma_mater = {"Harvard Medical School": "MMSc ✓ graduated"}
+    interests  = ["Wearable Sensors", "Biomechanics", "Deep Learning", "Bioinformatics"]
+    contact    = "yunyi.cheng@outlook.com"
+    roommates  = ["🐈", "🐈"]
+    allergies  = {"cats"}
+
+    def __init__(self):
+        if "cats" in self.allergies and self.roommates:
+            import warnings
+            warnings.warn("AllergenExposure: living with 2 cats anyway 🤧")
+
+    def ask_me_about(self):
+        return "wearables, ML, transformers for mass spec, PyTorch"
+```
+
+```text
+$ yunyi --status
+[ ok ] coffee                 loaded
+[ ok ] hms.mmsc               completed
+[ ok ] striv                  running
+[ ok ] antihistamines         loaded
+[warn] cat_count=2            above recommended threshold (0)
+[ ok ] curiosity              running since 2022
+```
+
+### `$ ls ~/stack`
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,java,perl,pytorch,tensorflow,sklearn,opencv,postgres,git,linux&theme=dark" alt="stack" />
+</p>
+
+### `$ git log --graph --all | snake`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yunyicheng/yunyicheng/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yunyicheng/yunyicheng/output/github-snake.svg" />
+  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/yunyicheng/yunyicheng/output/github-snake.svg" />
+</picture>
+
+```text
+ /\_/\
+( o.o )   exit 0  # thanks for stopping by
+ > ^ <    *achoo*
+```
