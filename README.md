@@ -31,8 +31,19 @@
   <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/yunyicheng/yunyicheng/output/github-snake.svg" />
 </picture>
 
+### `$ cat easter_egg.fasta`
+
 ```text
- /\_/\
-( o.o )   exit 0  # thanks for stopping by
- > ^ <    *achoo*
+>yunyi|cds|translate_me
+ATGGAGTGGCATGCTGTGGAAGCCAACATCTGCGAGGATGCTTACTAA
 ```
+
+<details>
+<summary><code>hint: ATG = start, TAA = stop</code></summary>
+
+```console
+$ python -c "from Bio.Seq import Seq; print(Seq('ATGGAGTGGCATGCTGTGGAAGCCAACATCTGCGAGGATGCTTACTAA').translate())"
+MEWHAVEANICEDAY*
+```
+
+</details>
