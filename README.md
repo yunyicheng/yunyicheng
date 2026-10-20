@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://yunyicheng.github.io"><img src="https://img.shields.io/badge/web-yunyicheng.github.io-0d1117?style=flat-square&logo=googlechrome&logoColor=36BCF7" alt="website" /></a>
+  <a href="https://yunyicheng.github.io"><img src="https://img.shields.io/badge/web-yunyicheng.github.io-0d1117?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMzZCQ0Y3IiBzdHJva2Utd2lkdGg9IjIuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNCA2bDYgNi02IDYiLz48cGF0aCBkPSJNMTMgMTloOCIvPjwvc3ZnPg%3D%3D" alt="website" /></a>
   <a href="https://linkedin.com/in/yunyi-cheng"><img src="https://img.shields.io/badge/linkedin-yunyi--cheng-0d1117?style=flat-square&logo=linkedin&logoColor=36BCF7" alt="linkedin" /></a>
   <img src="https://komarev.com/ghpvc/?username=yunyicheng&style=flat-square&color=36BCF7&label=profile+views" alt="profile views" />
 </p>
