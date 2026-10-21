@@ -1,3 +1,7 @@
-<img src="assets/terminal.svg" alt="$ whoami → yunyi cheng · algorithm engineer" width="100%" />
+### Yunyi Cheng
 
-[`yunyicheng.github.io`](https://yunyicheng.github.io) · [`linkedin`](https://linkedin.com/in/yunyi-cheng)
+Algorithm engineer. Bioinformatics at UofT, biomedical informatics at Harvard Medical School.
+
+[yunyicheng.github.io](https://yunyicheng.github.io) · [LinkedIn](https://linkedin.com/in/yunyi-cheng)
+
+<sub><code>ATGGAGTGGCATGCTGTGGAAGCCAACATCTGCGAGGATGCTTACTAA</code></sub>
